@@ -3,6 +3,7 @@
 A full-stack authentication system built with the **MERN stack** (MongoDB, Express.js, React, Node.js). This project includes a backend API for user authentication and a React-based frontend for user interaction. It uses **JWT** for secure authentication, **MongoDB Atlas** for data storage, and supports clean development with `.env` configuration.
 
 ---
+Demo - https://mern-stack-authentication-system.vercel.app/
 
 ## 🛍️ Table of Contents
 
